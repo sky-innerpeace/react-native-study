@@ -1,0 +1,16 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "liveServer.settings.useLocalIp": true,
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "[typescript]": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
